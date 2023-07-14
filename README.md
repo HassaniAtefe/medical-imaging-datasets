@@ -14,7 +14,7 @@ Medical Imaging Datasets
 | 2015 | BRATS 2015 | Glioma | MRI | Available | [Link](https://www.smir.ch/BRATS/start2015) |
 | 2017 | BRATS 2017 | Glioma | MRI | Available | [Link](https://www.med.upenn.edu/sbia/brats2017/data.html) |
 | 2018 | BRATS 2018 | Glioma | MRI | Available | [Link](https://www.med.upenn.edu/sbia/brats2018.html) |
-| - | AANLIB | Normal, Cerebrovascular, Neoplastic, Degenerative and infectious diseases | MRI | Available | [Link](https://www.med.harvard.edu/AANLIB/) |
+| - | AANLIB | Normal, Cerebrovascular, Neoplastic, Degenerative and Infectious Diseases | MRI | Available | [Link](https://www.med.harvard.edu/AANLIB/) |
 | 2011 | RIDER | Tumour | MRI | Available | [Link](https://wiki.cancerimagingarchive.net/display/Public/RIDER+NEURO+MRI) |
 | 2017 | CMRI | Glioma, Meningioma, Pituitary | MRI | Available | [Link](https://figshare.com/articles/dataset/brain_tumor_dataset/1512427) |
-| - | DMI-IR | Breast cancer |  Infrared Image | Available | [Link](http://visual.ic.uff.br/dmi/)|
+| - | DMI-IR | Breast cancer |  Infrared image | Available | [Link](http://visual.ic.uff.br/dmi/)|
