@@ -11,7 +11,6 @@ Medical Imaging Datasets
 | 2019 | ChexPert | COVID-19 | Chest radiography | Available | [Link](https://stanfordmlgroup.github.io/competitions/chexpert/)
 | 1996 | Brain Web | Multiple Sclerosis (MS) | MRI | Available | [Link](https://brainweb.bic.mni.mcgill.ca/brainweb/)  |
 | 2014 | REMBRANDT | Glioma | MRI | Available | [Link](https://wiki.cancerimagingarchive.net/display/Public/REMBRANDT) |
-|Brain Tumor Segmentation (BraTS) 2012 - 2020|
 | 2012 | BraTS 2012 | Glioma | MRI | Available | [Link](https://www.smir.ch/BRATS/start2012) |
 | 2013 | BraTS 2013 | Glioma | MRI | Available | [Link](https://www.smir.ch/BRATS/start2013) |
 | 2014 | BraTS 2014 | Glioma | MRI | Available | [Link](https://www.smir.ch/BRATS/start2014) |
@@ -25,3 +24,6 @@ Medical Imaging Datasets
 | 2011 | RIDER | Tumour | MRI | Available | [Link](https://wiki.cancerimagingarchive.net/display/Public/RIDER+NEURO+MRI) |
 | 2017 | CMRI | Glioma, Meningioma, Pituitary | MRI | Available | [Link](https://figshare.com/articles/dataset/brain_tumor_dataset/1512427) |
 | - | DMI-IR | Breast cancer |  Infrared image | Available | [Link](http://visual.ic.uff.br/dmi/)|
+| 2015 | IXI | Brain cancer |  MRI | Available | [Link](https://brain-development.org/ixi-dataset/)|
+| 2015 | LUNA16 | Lung cancer |  CT | Available | [Link](https://luna16.grand-challenge.org/Download/)|
+| 2016,2020 | LUNA16 | Skin cancer |  - | Available | [Link](https://challenge.isic-archive.com/data/#2016)|
