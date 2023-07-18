@@ -26,4 +26,4 @@ Medical Imaging Datasets
 | - | DMI-IR | Breast cancer |  Infrared image | Available | [Link](http://visual.ic.uff.br/dmi/)|
 | 2015 | IXI | Brain cancer |  MRI | Available | [Link](https://brain-development.org/ixi-dataset/)|
 | 2015 | LUNA16 | Lung cancer |  CT | Available | [Link](https://luna16.grand-challenge.org/Download/)|
-| 2016,2020 | LUNA16 | Skin cancer |  - | Available | [Link](https://challenge.isic-archive.com/data/#2016)|
+| 2016- 2020 | ISIC2016, ISIC2017, ISIC2018, ISIC2019 ISIC2020 | Skin cancer |  - | Available | [Link](https://challenge.isic-archive.com/data/#2016)|
